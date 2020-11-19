@@ -13,4 +13,25 @@ private String familyname;
 	familyname = " ";
 	}
 
+	public String getfistname()
+	{
+	return this.firstname;
+	}
+
+	public String getothernames()
+	{
+	return this.othernames;
+	}
+
+	public String getfamilyname()
+	{
+	return this.familyname;
+	}
+
+
+
+
+
+
+
 }// End of class.
