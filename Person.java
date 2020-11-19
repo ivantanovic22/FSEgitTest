@@ -42,6 +42,10 @@ private String familyname;
 		return lastname;
 	}
 
+	public String toString()
+	{
+
+	}
 
 
 }// End of class.
