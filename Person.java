@@ -34,7 +34,13 @@ private String familyname;
 	
 
 	}	
-
+	
+	public String printFullName()
+	{
+		return firstname;
+		return othernames;
+		return lastname;
+	}
 
 
 
