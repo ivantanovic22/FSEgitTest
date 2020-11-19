@@ -29,7 +29,11 @@ private String familyname;
 	}
 
 
+	public Int getAge()
+	{
+	
 
+	}	
 
 
 
